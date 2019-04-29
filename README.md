@@ -10,4 +10,12 @@
 * [Eraser: A Dynamic Data Race Detector forMultithreaded Programs](Tocs97.pdf)
 * [A Few Billion Lines of Code Later: Using Static Analysis to Find Bugs in the Real World](BLOC-coverity.pdf)
 * [Induction of Decision Trees](quinlan-decisiontrees.pdf)
-* 
+* [Register Allocation & Spilling via Graph Coloring](chaitin82.pdf)
+* [How to Print Floating-Point Numbers Accurately](p372-steele.pdf)
+* [Space Efficient Conservative Garbage Collection](p197-boehm.pdf)
+* [Time, Clocks, and the Ordering of Events in a Distributed System](time-clocks.pdf)
+* [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0)
+* [Automating String Processing in Spreadsheets Using Input-Output Examples](gulwani-string.pdf)
+* [A Unified Approach to Global Program Optimization](a_unified_approach_to_global_program_optimization.pdf)
+* [Proof-Carrying Code](pcc_popl97.pdf)
+* [Potter's Wheel: An Interactive Data Cleaning System](pwheel-vldb.pdf)
