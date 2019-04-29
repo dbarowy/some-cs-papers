@@ -1,1 +1,5 @@
 * [Can Programming Be Liberated from the von Neumann Style? A Functional Style and Its Algebra of Programs](1977-backus.pdf)
+* [Soft Updates: A Solution to the Metadata Update Problem in File Systems](journal-softupdate.pdf)
+* [The Rise of Worse is Better](Worse_is_Better.pdf)
+* [Producing Wrong Data Without Doing Anything Obviously Wrong!](mytkowicz-wrong-data.pdf)
+* [DieHard: Probabilistic Memory Safety for Unsafe Languages](fp014-berger.pdf)
