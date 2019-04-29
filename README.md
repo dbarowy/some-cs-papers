@@ -3,3 +3,11 @@
 * [The Rise of Worse is Better](Worse_is_Better.pdf)
 * [Producing Wrong Data Without Doing Anything Obviously Wrong!](mytkowicz-wrong-data.pdf)
 * [DieHard: Probabilistic Memory Safety for Unsafe Languages](fp014-berger.pdf)
+* [Software Transactional Memory](ShavitTouitou-podc95.pdf)
+* [Automated Whitebox Fuzz Testing](ndss2008.pdf)
+* [Reflections on Trusting Trust](p761-thompson.pdf)
+* [Chord: A Scalable Peer-to-peer Lookup Service for InternetApplications](chord.pdf)
+* [Eraser: A Dynamic Data Race Detector forMultithreaded Programs](Tocs97.pdf)
+* [A Few Billion Lines of Code Later: Using Static Analysis to Find Bugs in the Real World](BLOC-coverity.pdf)
+* [Induction of Decision Trees](quinlan-decisiontrees.pdf)
+* 
